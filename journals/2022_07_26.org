@@ -7,3 +7,4 @@
 * LATER deepin-community-logo @付倩
 * 添加 [[Contents]] 页面
 * #TODO 通过 api 进行 rebuild
+* #TODO deepin action 构建失败，影响多个项目
