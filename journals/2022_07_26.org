@@ -5,3 +5,4 @@
 * deepin-builder-docker-是怎么工作的？ #card
 ** 使用 docker 的 {{cloze 多阶段构建 }} 和 {{cloze 不同的脚本}}，控制传入的参数来确保运行。
 * LATER deepin-community-logo @付倩
+* 添加 [[Contents]] 页面
