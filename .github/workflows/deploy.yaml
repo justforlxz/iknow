@@ -16,7 +16,7 @@ jobs:
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
       - name: add CNAME
-        run: echo "worklog.justforlxz.com" > $GITHUB_WORKSPACE/www/CNAME
+        run: echo "iknow.justforlxz.com" > $GITHUB_WORKSPACE/www/CNAME
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.9
         with:

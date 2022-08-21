@@ -218,7 +218,7 @@
  :property-pages/enabled? true
  :graph/settings {:journal? true, :builtin-pages? true}
  :publishing/all-pages-public? true
- :preferred-format :org
+ :preferred-format :markdown
 
  ;; Properties to exclude from having property pages
  ;; E.g. #{:duration :author}

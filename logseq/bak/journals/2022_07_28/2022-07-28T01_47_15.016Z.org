@@ -1,0 +1,5 @@
+* [[Daily]]
+* TODO 为 debian 增加运行依赖检查
+* 今日任务 [/]
+- [ ] tweak 框架搭建
+- [ ] test

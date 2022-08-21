@@ -4,7 +4,6 @@
 ** 使用 deepin-builder-docker 替换 release 项目中的 steps
 * deepin-builder-docker-是怎么工作的？ #card
 ** 使用 docker 的 {{cloze 多阶段构建 }} 和 {{cloze 不同的脚本}}，控制传入的参数来确保运行。
-* LATER deepin-community-logo @付倩
 * 添加 [[Contents]] 页面
-* #TODO 通过 api 进行 rebuild
-* #TODO deepin action 构建失败，影响多个项目
+* TODO 通过 api 进行 rebuild
+* DONE deepin action 构建失败，影响多个项目

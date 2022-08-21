@@ -1,0 +1,5 @@
+- 这里用来汇总我学习 Games 101 课程的所有笔记和相关知识点。
+- Games 101 不包括以下内容：
+  - OpenGL / DIrectX / Vulkan
+  - The syntax of Shaders
+- 学习图形学的基础，但不学习图形库 API

@@ -1,0 +1,11 @@
+* [[Daily]]
+* TODO 明道云 workflow 公示开源项目的新增/删除行数
+* TODO 修复 debian sid 仓库中没有 dde-dock
+* TODO 为 debian 增加运行依赖检查
+*
+* title 1 [1/3]
+- [X] mark
+- [ ] mark 2
+- [ ] mark 3
+
+* TODO emacs
