@@ -6,7 +6,7 @@
   :block/updated-at 1661068083333}
  {:block/name "aug 21st, 2022",
   :block/created-at 1661066774405,
-  :block/updated-at 1661067902468}
+  :block/updated-at 1661071821777}
  {:block/name "b",
   :block/created-at 1658743021337,
   :block/updated-at 1658743021337}
@@ -24,10 +24,7 @@
   :block/updated-at 1658743021336}
  {:block/name "contents",
   :block/created-at 1658824626683,
-  :block/updated-at 1658824815336}
- {:block/name "daily",
-  :block/created-at 1658742929853,
-  :block/updated-at 1658822889498}
+  :block/updated-at 1661069682665}
  {:block/name "doing",
   :block/created-at 1658743021337,
   :block/updated-at 1658743021337}
@@ -40,6 +37,12 @@
  {:block/name "games101",
   :block/created-at 1661066885050,
   :block/updated-at 1661067989215}
+ {:block/name "games101p1",
+  :block/created-at 1661070507659,
+  :block/updated-at 1661070507659}
+ {:block/name "games101p2",
+  :block/created-at 1661071176786,
+  :block/updated-at 1661071176786}
  {:block/name "in-progress",
   :block/created-at 1658743021337,
   :block/updated-at 1658743021337}
